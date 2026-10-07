@@ -1,6 +1,6 @@
 cask "flo-state" do
-  version "0.1.16"
-  sha256 "0e3be8dec1bf12c7a145a6641e48705d73a42551637a5245abc81a3dba37601d"
+  version "0.1.17"
+  sha256 "e199ec0f3f2a90b3f68c640464295b0cd1d7886c5f3cd0dad8516fbf71935e26"
 
   url "https://github.com/Altimor/flo-state/releases/download/v#{version}/FloState-#{version}.zip"
   name "Flo State"
